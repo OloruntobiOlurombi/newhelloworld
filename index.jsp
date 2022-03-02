@@ -69,28 +69,4 @@
   
 
 
-  <!-- 
-git init
-git config user.name "someone"
-git config user.email "someone@someplace.com"
-git add *
-git commit -m "some init msg"
-
-
-git config --local user.name "hhh"
-git config --list
-git commit -m ""
-git reflog
-
-$ git remote -v
-$ git remote rm origin
-$ git commit -m "your commit"
-$ git remote add origin https://github.com/user/repo.git
-$ git push -f origin master
-
-Token
-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
-
-  -->
-
 </form>
