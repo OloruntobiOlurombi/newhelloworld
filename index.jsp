@@ -64,7 +64,7 @@
       <p>Already have an account? <a href="#">Sign in</a>.</p>
     </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Just checking for new update </h1>
 
   
 
